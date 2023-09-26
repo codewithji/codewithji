@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ji
+- 👀 I’m a full-stack software engineer that loves turning abstract ideas into reality

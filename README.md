@@ -1,2 +1,8 @@
-- 👋 Hi, I’m Ji
-- 👀 I’m a full-stack software engineer that loves turning abstract ideas into reality
+Full-stack software engineer who is always learning 🌱
+
+### Currently exploring
+- Go, Redis
+
+### Recent projects
+- [Serverless URL Shortener](https://github.com/codewithji/serverless-url-shortener) (Sep 2023)
+  
